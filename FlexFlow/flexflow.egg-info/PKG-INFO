@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: flexflow
+Version: 0.0.1.1
+Summary: FlexFlow Webservice Module. Initial Release [0.0.1]
+Home-page: UNKNOWN
+Author: Jon Mastracchio
+Author-email: Jonathon.Mastracchio1@flex.com
+License: Flex LLC.
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7

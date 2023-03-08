@@ -1,0 +1,6 @@
+TESTER|http://aurnt090/ZeusFFTesterWS/FFTesterWS.asmx?WSDL
+STATION|AUTO FCT TEST Screening
+USER|aurjomas
+
+
+

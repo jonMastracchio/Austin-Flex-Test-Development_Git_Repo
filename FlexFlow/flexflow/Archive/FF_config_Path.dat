@@ -1,0 +1,14 @@
+﻿* 
+* Uncomment the server to access
+*
+*NPI
+*|SERVER|http://10.159.210.132/FFTesterWS_NPI/FFTesterWS.asmx
+*|TRACE|http://10.159.210.132/FFTesterWS_NPI/trace.axd
+* PNO
+*|SERVER|http://aurnt501/FFTesterWSProd/FFTesterWS.asmx
+*|TRACE|http://aurnt501/FFTesterWSProd/trace.axd
+*ZeusTEST
+*|SERVER|http://aurnte196/FFTesterWSZeus/FFTesterWS.asmx
+*|TRACE||http://aurnte196/FFTesterWSZeus/trace.axd
+|SERVER|http://aurnt090/FFTesterWS/FFTesterWS.asmx
+|TRACE|http://aurnt090/FFTesterWS/trace.axd
